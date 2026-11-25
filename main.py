@@ -9,7 +9,7 @@ clock = pygame.time.Clock()
 ball_x = 400
 ball_y = 300
 ball_radius = 20
-ball_color = (255, 200, 50)
+ball_color = (255, 200, 0)
 speed_x = 7
 speed_y = 2
 
